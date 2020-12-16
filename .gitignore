@@ -1,0 +1,3 @@
+# ignore the psd file
+*.psd
+.DS_Store
