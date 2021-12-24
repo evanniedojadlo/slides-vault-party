@@ -14,7 +14,7 @@ Here are some resources mentioned during the talk, create an issue if I missed a
 
 [Cloud Austin Meetup and event](https://www.meetup.com/CloudAustin/events/pljpfrybcqbtb/)
 
-Some inspiriation for my doodles:
+Some inspiration for my doodles:
 
 [dotJS 2012 - Fat - What Is Open Source & Why Do I Feel So Guilty? ](https://www.youtube.com/watch?v=UIDb6VBO9os)
 
